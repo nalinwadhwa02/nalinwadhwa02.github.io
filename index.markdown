@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+
+This should be the main website on my homepage,
+This can hold my about and stuff hahaha :)
