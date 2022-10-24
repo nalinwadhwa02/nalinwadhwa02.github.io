@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /resume.pdf
 ---
 
-Here I will think about writing a online resume.
