@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.row {
+  flex: 1;
+  width: fit-content;
+}
+
+.column {
+    flex: 1;
+    padding: 20px;
+}
+
+.column-right {
+    width: fit-content;
+    padding-left: 50pt;
+}
+
+.container {
+  width: 90%;
+  padding: 10pt;
+  max-width: 900px;
+  margin: 0 auto;
+}
