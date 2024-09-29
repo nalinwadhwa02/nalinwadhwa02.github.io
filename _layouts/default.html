@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="shortcut icon" type="image/x-icon" href='{{ site.icon }}'>
+    <title>{{ site.title }}</title>
     {% include head-custom.html %}
 
 {% seo %}
@@ -16,7 +18,7 @@
     <header>
       <div class="container">
 	<div class="flex">
-	<div class="column">
+	<div class="column-left">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
@@ -24,19 +26,22 @@
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
         <section id="downloads" class="flex-column">
+	  {% if site.email %}
+	  <div><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ site.email }}" class="row">{{ site.email }}</a></div>
+	  {% endif %}
 	  {% if site.twitter_username %}
-	  <a href="https://x.com/{{ site.twitter_username }}" class="row btn"><i class="fa fa-twitter" aria-hidden="true"></i> {{ site.twitter_username }}</a><br>
+	  <div><i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://x.com/{{ site.twitter_username }}" class="">{{ site.twitter_username }}</a></div>
 	  {% endif %}
 	  {% if site.github_username %}
-	  <a href="https://github.com/{{ site.github_username }}" class=" row btn"><i class="fa fa-github" aria-hidden="true"></i> {{ site.twitter_username }}</a><br>
+	  <div><i class="fa fa-github" aria-hidden="true"></i>  <a href="https://github.com/{{ site.github_username }}" class=" row">{{ site.twitter_username }}</a><br></div>
 	  {% endif %}
 	  {% if site.google_scholar_url and site.google_scholar_name %}
-	  <a href="{{ site.google_scholar_url }}" class="row btn"><i class="fa fa-graduation-cap" aria-hidden="true"></i> {{ site.google_scholar_name }}</a><br>
+	  <div><i class="fa fa-graduation-cap" aria-hidden="true"></i> <a href="{{ site.google_scholar_url }}" class="row">{{ site.google_scholar_name }}</a><br></div>
 	  {% endif %}
         </section>
 	</div>
 	{% if site.profile_picture %}
-	<div class="column-right"><img src="{{ site.profile_picture }}" alt="Its a me" style="height:360px;"></div>
+	<div class="column-right"><img src="{{ site.profile_picture }}" alt="Its a me" style="height:360px;" class="flex"></div>
 	{% endif %}
       </div>
       </div>

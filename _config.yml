@@ -18,15 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nalin's Landing Site
+title: Nalin Wadhwa
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, Im Nalin Wadhwa. 
-  You are on my landing site, where you can know more about me, my work and things that interest me from time to time. 
+  Hi, I am Nalin Wadhwa. 
+  Im a research fellow at MSR and looking to PhD positions!
   Feel free to contact me on mail or twitter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: nalinwadhwa02.github.io # the base hostname & protocol for your site, e.g. http://example.com
 show_downloads: False
 
+icon: assets/icons/favicon.ico
 email: nalinwadhwa02@gmail.com
 twitter_username: nalin_wadhwa
 github_username:  nalinwadhwa02
