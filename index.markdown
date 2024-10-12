@@ -12,6 +12,10 @@ I am currently working on AI Code Agents, AI based code generation, program synt
 
 I am looking to apply for PhD's this year (2024) for joining in 2025.
 
+# News
+
+- \[Oct 24\] Our paper [**MASAI**](https://arxiv.org/abs/2406.11638) for accepted at [NeurIPS 2024 OWA Workshop](https://sites.google.com/view/open-world-agents/home)!
+
 # Publications
 
 ## 2024 
