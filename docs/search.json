@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "BEAVER: An Efficient Deterministic LLM Verifier Nalin Wadhwa*, Tarun Suresh*, Debangshu Banerjee, Gagandeep Singh [arXiv] [GitHub]\n\nCode Researcher: Deep Research Agent for Large Systems Code and Commit History Ramneet Singh, Sathvik Joel, Abhav Mehrotra, Nalin Wadhwa, Ramakrishna B Bairi, Aditya Kanade, Nagarajan Natarajan [Project page] [arXiv]"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "BEAVER: An Efficient Deterministic LLM Verifier Nalin Wadhwa*, Tarun Suresh*, Debangshu Banerjee, Gagandeep Singh [arXiv] [GitHub]\n\nCode Researcher: Deep Research Agent for Large Systems Code and Commit History Ramneet Singh, Sathvik Joel, Abhav Mehrotra, Nalin Wadhwa, Ramakrishna B Bairi, Aditya Kanade, Nagarajan Natarajan [Project page] [arXiv]"
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\nMASAI: Modular Architecture for Software-engineering AI Agents Nalin Wadhwa*, Atharv Sonwane*, Daman Arora*, Abhav Mehrotra, Saiteja Utpala, Ramakrishna B Bairi, Aditya Kanade, Nagarajan Natarajan NeurIPS 2024 Workshop on Open-World Agents [Project page] [OpenReview] [arXiv]\n\nCORE: Resolving Code Quality Issues Using LLMs Nalin Wadhwa, Jui Pradhan, Atharv Sonwane, Surya Prakash Sahu, Nagarajan Natarajan, Aditya Kanade, Suresh Parthasarathy, Sriram Rajamani Proceedings of the ACM on Software Engineering, FSE 2024 [Project page] [ACM] [arXiv]\n\n* denotes equal contribution"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nalin Wadhwa",
+    "section": "",
+    "text": "Email\n  \n  \n      Scholar\n  \n  \n    \n     GitHub\n  \n  \n    \n     Twitter\n  \n\n  \n  \nHi,\nI’m a PhD student at the University of Illinois Urbana-Champaign. My research focuses on building robust and verifiable AI systems, and studying large language models (LLMs) via the lens of formal methods.\nI believe we can use formal tools and symbolic techniques to understand and provide guarantees on model behavior. I am currently working towards deterministic verification and robustness of large language models.\nI have also worked on Machine Learning for Software Engineering (ML4SE), including automated program repair, code generation, and LLM-based coding agents for complex software development tasks. Broadly, I’m excited about bridging formal methods, machine learning, and software engineering to create AI systems that are both powerful and trustworthy.\nPreviously, I was a Research Fellow at Microsoft Research India, where I worked with Dr. Sriram Rajamani, Dr. Aditya Kanade, and Dr. Nagarajan Natarajan. I received my B.Tech in Computer Science from IIT Delhi in 2023, where I worked with Prof. Sorav Bansal on my undergraduate thesis.\nOutside of research, I enjoy cooking, making electronic music, and can play almost all racket sports. I also like reading fiction, philosophy and everything in between.\nI grew up in various cities across India, but my roots are in Delhi.\n\n\nMicrosoft Research India | Research Fellow | Jul 2023 - Jun 2025\nMicrosoft IDC | Data and Applied Science Intern | Jun 2022 - Jul 2022\n\n\n\nUniversity of Illinois Urbana-Champaign | PhD in Computer Science | 2025 - Present\nIndian Institute of Technology Delhi | B.Tech in Computer Science | 2019 - 2023"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Nalin Wadhwa",
+    "section": "",
+    "text": "Microsoft Research India | Research Fellow | Jul 2023 - Jun 2025\nMicrosoft IDC | Data and Applied Science Intern | Jun 2022 - Jul 2022"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nalin Wadhwa",
+    "section": "",
+    "text": "University of Illinois Urbana-Champaign | PhD in Computer Science | 2025 - Present\nIndian Institute of Technology Delhi | B.Tech in Computer Science | 2019 - 2023"
+  }
+]
