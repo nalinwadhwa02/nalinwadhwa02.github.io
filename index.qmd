@@ -1,0 +1,58 @@
+---
+title: "Nalin Wadhwa"
+description-meta: "Nalin Wadhwa - PhD Student at UIUC"
+image: "files/images/profile.jpeg"
+page-navigation: false
+toc: false
+page-layout: full
+
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:nalin.wadhwa02@gmail.com
+    - text: "{{< ai google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=A8Zxn6UAAAAJ&hl=en
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/nalinwadhwa02/
+      target: _blank
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/nalin_wadhwa
+      target: _blank
+---
+
+:::{#hero-heading}
+
+Hi,
+
+I'm a PhD student at the **University of Illinois Urbana-Champaign**. My research focuses on building robust and verifiable AI systems, and studying large language models (LLMs) via the lens of formal methods.
+
+I believe we can use formal tools and symbolic techniques to understand and provide guarantees on model behavior. I am currently working towards deterministic verification and robustness of large language models. 
+
+I have also worked on Machine Learning for Software Engineering (ML4SE), including automated program repair, code generation, and LLM-based coding agents for complex software development tasks. Broadly, I'm excited about bridging formal methods, machine learning, and software engineering to create AI systems that are both powerful and trustworthy.
+
+Previously, I was a Research Fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I worked with [Dr. Sriram Rajamani](https://www.microsoft.com/en-us/research/people/sriram/), [Dr. Aditya Kanade](https://www.microsoft.com/en-us/research/people/kanadeaditya/), and [Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/). I received my B.Tech in Computer Science from [IIT Delhi](https://home.iitd.ac.in/) in 2023, where I worked with [Prof. Sorav Bansal](https://sorav.compiler.ai/) on my undergraduate thesis.
+
+Outside of research, I enjoy cooking, making electronic music, and can play almost all racket sports. I also like reading fiction, philosophy and everything in between.
+
+I grew up in various cities across India, but my roots are in Delhi.
+
+## Experience
+
+**Microsoft Research India** | Research Fellow | Jul 2023 - Jun 2025
+
+**Microsoft IDC** | Data and Applied Science Intern | Jun 2022 - Jul 2022
+
+## Education
+
+**University of Illinois Urbana-Champaign** | PhD in Computer Science | 2025 - Present
+
+**Indian Institute of Technology Delhi** | B.Tech in Computer Science | 2019 - 2023
+
+:::

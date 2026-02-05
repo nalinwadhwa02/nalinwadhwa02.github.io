@@ -1,1 +1,0 @@
-This is the source code to my website [https://nalinwadhwa02.github.io](https://nalinwadhwa02.github.io). I have adapted this from [Jon Barron's website template](https://github.com/jonbarron/website).

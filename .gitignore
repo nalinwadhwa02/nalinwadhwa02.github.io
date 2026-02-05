@@ -1,2 +1,13 @@
-# remove _site folder
+# Quarto
+/.quarto/
 _site/
+docs/
+
+# OS files
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+
+**/*.quarto_ipynb

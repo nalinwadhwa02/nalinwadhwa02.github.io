@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+
+# Meta
+description-meta: "Nalin Wadhwa - PhD Student at UIUC"
+author-meta: "Nalin Wadhwa"
+
+website:
+  title: "Nalin Wadhwa"
+  image: "files/images/profile.jpeg"
+  description: "PhD Student at UIUC working on robust and verifiable LLMs"
+
+  navbar:
+    background: light
+
+    left:
+      - text: Publications
+        href: publications.qmd
+
+    right:
+      - text: CV
+        href: files/nalinwadhwa_resume.pdf
+      - icon: github
+        href: https://github.com/nalinwadhwa02
+        target: _blank
+      - icon: twitter
+        href: https://twitter.com/nalin_wadhwa
+        target: _blank
+
+  page-navigation: true
+
+  page-footer:
+    left: "[Nalin Wadhwa](https://nalinwadhwa02.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: "Built with [Quarto](https://quarto.org)"
+    right:
+      - icon: github
+        href: https://github.com/nalinwadhwa02
+        target: _blank
+      - icon: twitter
+        href: https://twitter.com/nalin_wadhwa
+        target: _blank
+
+  open-graph: true
+  twitter-card: true
+  site-url: "https://nalinwadhwa02.github.io"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-icon: false
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    include-in-header: "files/includes/_academic.qmd"

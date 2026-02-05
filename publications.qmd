@@ -1,0 +1,37 @@
+---
+title: "Publications"
+description-meta: "Publications by Nalin Wadhwa"
+title-block-banner: false
+---
+
+## Preprints
+
+**BEAVER: An Efficient Deterministic LLM Verifier**
+**Nalin Wadhwa**\*, Tarun Suresh\*, Debangshu Banerjee, Gagandeep Singh
+[[arXiv](https://arxiv.org/abs/2512.05439)] [[GitHub](https://github.com/uiuc-focal-lab/Beaver)]
+
+---
+
+**Code Researcher: Deep Research Agent for Large Systems Code and Commit History**
+Ramneet Singh, Sathvik Joel, Abhav Mehrotra, **Nalin Wadhwa**, Ramakrishna B Bairi, Aditya Kanade, Nagarajan Natarajan
+[[Project page](https://www.microsoft.com/en-us/research/publication/code-researcher-deep-research-agent-for-large-systems-code-and-commit-history/)] [[arXiv](https://arxiv.org/abs/2506.11060)]
+
+---
+
+## Conference Papers
+
+**MASAI: Modular Architecture for Software-engineering AI Agents**
+**Nalin Wadhwa**\*, Atharv Sonwane\*, Daman Arora\*, Abhav Mehrotra, Saiteja Utpala, Ramakrishna B Bairi, Aditya Kanade, Nagarajan Natarajan
+*NeurIPS 2024 Workshop on Open-World Agents*
+[[Project page](https://masai-dev-agent.github.io/)] [[OpenReview](https://openreview.net/forum?id=NSINt8lLYB)] [[arXiv](https://arxiv.org/abs/2406.11638)]
+
+---
+
+**CORE: Resolving Code Quality Issues Using LLMs**
+**Nalin Wadhwa**, Jui Pradhan, Atharv Sonwane, Surya Prakash Sahu, Nagarajan Natarajan, Aditya Kanade, Suresh Parthasarathy, Sriram Rajamani
+*Proceedings of the ACM on Software Engineering, FSE 2024*
+[[Project page](https://aka.ms/COREMSRI)] [[ACM](https://dl.acm.org/doi/abs/10.1145/3643762)] [[arXiv](https://arxiv.org/abs/2411.18613)]
+
+---
+
+\* denotes equal contribution
