@@ -29,28 +29,51 @@ about:
 
 :::{#hero-heading}
 
-Hi,
+Hi, I'm Nalin. 
 
-I'm a PhD student at the **University of Illinois Urbana-Champaign**. My research focuses on building robust and verifiable AI systems, and studying large language models (LLMs) via the lens of formal methods.
+I'm a PhD student in Computer Science at the University of Illinois Urbana-Champaign.
 
-I believe we can use formal tools and symbolic techniques to understand and provide guarantees on model behavior. I am currently working towards deterministic verification and robustness of large language models. I have also worked on Machine Learning for Software Engineering (ML4SE), including automated program repair, code generation, and LLM-based coding agents for complex software development tasks. Broadly, I'm excited about bridging formal methods, machine learning, and software engineering to create AI systems that are both powerful and trustworthy.
+### Education and Experience
 
-Before starting my PhD, I was a Research Fellow at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I worked with [Dr. Sriram Rajamani](https://www.microsoft.com/en-us/research/people/sriram/), [Dr. Aditya Kanade](https://www.microsoft.com/en-us/research/people/kanadeaditya/), and [Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/). I received my B.Tech in Computer Science from [IIT Delhi](https://home.iitd.ac.in/) in 2023, where I worked with [Prof. Sorav Bansal](https://sorav.compiler.ai/) on my undergraduate thesis.
+**PhD in Computer Science** at **University of Illinois Urbana-Champaign** advised by [Gagandeep Singh](https://ggndpsngh.github.io/) &mdash; 2025 – Present
 
-Outside of research, I enjoy cooking, making electronic music, and can play almost all racket sports. I also like reading fiction, philosophy and everything in between.
+**Research Fellow**  at **Microsoft Research India** with [Dr. Sriram Rajamani](https://www.microsoft.com/en-us/research/people/sriram/), [Dr. Aditya Kanade](https://www.microsoft.com/en-us/research/people/kanadeaditya/), and [Dr. Nagarajan Natarajan](https://www.microsoft.com/en-us/research/people/nagarajn/) &mdash; 2023 – 2025
+
+**B.Tech in Computer Science** at **Indian Institute of Technology Delhi**, Undergraduate thesis with [Prof. Sorav Bansal](https://sorav.compiler.ai/).
+
+### Research
+
+My research focuses on building robust, verifiable and trustworthy AI systems. I am studying large language models through the lens of formal methods, and I belive we should use formal tools and symbolic techniques to understand and provide guarantees on model behavior. I am currently working towards deterministic verification and robustness of large language models. I have also worked on Machine Learning for Software Engineering (ML4SE) &mdash; including automated program repair, code generation, and LLM-based coding agents for complex software development tasks. Broadly, I'm excited about bridging formal methods, machine learning, and software engineering to create AI systems that are both powerful and trustworthy.
+
+## Publications
+
+A full list lives on the [Publications](publications.qmd) page.
+
+**BEAVER: An Efficient Deterministic LLM Verifier**<br>
+**Nalin Wadhwa**\*, Tarun Suresh\*, Debangshu Banerjee, Gagandeep Singh<br>
+<span style="color:red">*ICLR 2026 Oral VerifAI2 Workshop*</span><br>[[arXiv](https://arxiv.org/abs/2512.05439)] [[GitHub](https://github.com/uiuc-focal-lab/Beaver)]
+
+
+**Code Researcher: Deep Research Agent for Large Systems Code and Commit History**<br>
+Ramneet Singh, Sathvik Joel, Abhav Mehrotra, **Nalin Wadhwa**, Ramakrishna B Bairi, Aditya Kanade, Nagarajan Natarajan<br>
+[[Project page](https://www.microsoft.com/en-us/research/publication/code-researcher-deep-research-agent-for-large-systems-code-and-commit-history/)] [[arXiv](https://arxiv.org/abs/2506.11060)]
+
+**MASAI: Modular Architecture for Software-engineering AI Agents**<br>
+**Nalin Wadhwa**\*, Atharv Sonwane\*, Daman Arora\*, Abhav Mehrotra, Saiteja Utpala, Ramakrishna B Bairi, Aditya Kanade, Nagarajan Natarajan<br>
+<span style="color:red">*NeurIPS 2024 Workshop on Open-World Agents*</span><br>
+[[Project page](https://masai-dev-agent.github.io/)] [[arXiv](https://arxiv.org/abs/2406.11638)]
+
+**CORE: Resolving Code Quality Issues Using LLMs**<br>
+**Nalin Wadhwa**, Jui Pradhan, Atharv Sonwane, Surya Prakash Sahu, Nagarajan Natarajan, Aditya Kanade, Suresh Parthasarathy, Sriram Rajamani<br>
+<span style="color:red">*Proceedings of the ACM on Software Engineering, FSE 2024*</span><br>
+[[ACM](https://dl.acm.org/doi/abs/10.1145/3643762)] [[arXiv](https://arxiv.org/abs/2411.18613)]
+
+### Other Interests
+
+Outside of research,  I greatly enjoy reading fiction, philosophy, and everything in between. I also enjoy cooking, making electronic music, and can play almost all racket sports.
 
 I grew up in various cities across India, but my roots are in Delhi.
 
-## Experience
+### Contact
 
-**Microsoft Research India** | Research Fellow | Jul 2023 - Jun 2025
-
-**Microsoft IDC** | Data and Applied Science Intern | Jun 2022 - Jul 2022
-
-## Education
-
-**University of Illinois Urbana-Champaign** | PhD in Computer Science | 2025 - Present
-
-**Indian Institute of Technology Delhi** | B.Tech in Computer Science | 2019 - 2023
-
-:::
+The best way to reach me is by [email](mailto:nalin.wadhwa02@gmail.com).

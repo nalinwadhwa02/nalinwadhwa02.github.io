@@ -25,20 +25,41 @@
     "href": "index.html",
     "title": "Nalin Wadhwa",
     "section": "",
-    "text": "Email\n  \n  \n      Scholar\n  \n  \n    \n     GitHub\n  \n  \n    \n     Twitter\n  \n\n  \n  \nHi,\nI’m a PhD student at the University of Illinois Urbana-Champaign. My research focuses on building robust and verifiable AI systems, and studying large language models (LLMs) via the lens of formal methods.\nI believe we can use formal tools and symbolic techniques to understand and provide guarantees on model behavior. I am currently working towards deterministic verification and robustness of large language models. I have also worked on Machine Learning for Software Engineering (ML4SE), including automated program repair, code generation, and LLM-based coding agents for complex software development tasks. Broadly, I’m excited about bridging formal methods, machine learning, and software engineering to create AI systems that are both powerful and trustworthy.\nBefore starting my PhD, I was a Research Fellow at Microsoft Research India, where I worked with Dr. Sriram Rajamani, Dr. Aditya Kanade, and Dr. Nagarajan Natarajan. I received my B.Tech in Computer Science from IIT Delhi in 2023, where I worked with Prof. Sorav Bansal on my undergraduate thesis.\nOutside of research, I enjoy cooking, making electronic music, and can play almost all racket sports. I also like reading fiction, philosophy and everything in between.\nI grew up in various cities across India, but my roots are in Delhi.\n\n\nMicrosoft Research India | Research Fellow | Jul 2023 - Jun 2025\nMicrosoft IDC | Data and Applied Science Intern | Jun 2022 - Jul 2022\n\n\n\nUniversity of Illinois Urbana-Champaign | PhD in Computer Science | 2025 - Present\nIndian Institute of Technology Delhi | B.Tech in Computer Science | 2019 - 2023"
+    "text": "Email\n  \n  \n      Scholar\n  \n  \n    \n     GitHub\n  \n  \n    \n     Twitter\n  \n\n  \n  \nHi, I’m Nalin.\nI’m a PhD student in Computer Science at the University of Illinois Urbana-Champaign.\n\n\nPhD in Computer Science at University of Illinois Urbana-Champaign advised by Gagandeep Singh — 2025 – Present\nResearch Fellow at Microsoft Research India with Dr. Sriram Rajamani, Dr. Aditya Kanade, and Dr. Nagarajan Natarajan — 2023 – 2025\nB.Tech in Computer Science at Indian Institute of Technology Delhi, Undergraduate thesis with Prof. Sorav Bansal.\n\n\n\nMy research focuses on building robust, verifiable and trustworthy AI systems. I am studying large language models through the lens of formal methods, and I belive we should use formal tools and symbolic techniques to understand and provide guarantees on model behavior. I am currently working towards deterministic verification and robustness of large language models. I have also worked on Machine Learning for Software Engineering (ML4SE) — including automated program repair, code generation, and LLM-based coding agents for complex software development tasks. Broadly, I’m excited about bridging formal methods, machine learning, and software engineering to create AI systems that are both powerful and trustworthy.\n\n\n\nA full list lives on the Publications page.\nBEAVER: An Efficient Deterministic LLM Verifier Nalin Wadhwa*, Tarun Suresh*, Debangshu Banerjee, Gagandeep Singh ICLR 2026 Oral VerifAI2 Workshop[arXiv] [GitHub]\nCode Researcher: Deep Research Agent for Large Systems Code and Commit History Ramneet Singh, Sathvik Joel, Abhav Mehrotra, Nalin Wadhwa, Ramakrishna B Bairi, Aditya Kanade, Nagarajan Natarajan [Project page] [arXiv]\nMASAI: Modular Architecture for Software-engineering AI Agents Nalin Wadhwa*, Atharv Sonwane*, Daman Arora*, Abhav Mehrotra, Saiteja Utpala, Ramakrishna B Bairi, Aditya Kanade, Nagarajan Natarajan NeurIPS 2024 Workshop on Open-World Agents [Project page] [arXiv]\nCORE: Resolving Code Quality Issues Using LLMs Nalin Wadhwa, Jui Pradhan, Atharv Sonwane, Surya Prakash Sahu, Nagarajan Natarajan, Aditya Kanade, Suresh Parthasarathy, Sriram Rajamani Proceedings of the ACM on Software Engineering, FSE 2024 [ACM] [arXiv]\n\n\nOutside of research, I greatly enjoy reading fiction, philosophy, and everything in between. I also enjoy cooking, making electronic music, and can play almost all racket sports.\nI grew up in various cities across India, but my roots are in Delhi.\n\n\n\nThe best way to reach me is by email (nalin.wadhwa02 at gmail dot com)."
   },
   {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
+    "objectID": "index.html#education-and-experience",
+    "href": "index.html#education-and-experience",
     "title": "Nalin Wadhwa",
     "section": "",
-    "text": "Microsoft Research India | Research Fellow | Jul 2023 - Jun 2025\nMicrosoft IDC | Data and Applied Science Intern | Jun 2022 - Jul 2022"
+    "text": "University of Illinois Urbana-Champaign — PhD in Computer Science — 2025 – Present\nMicrosoft Research India — Research Fellow — 2023 – 2025 With Dr. Sriram Rajamani, Dr. Aditya Kanade, and Dr. Nagarajan Natarajan.\nMicrosoft IDC — Data and Applied Science Intern — 2022 – 2022\nIndian Institute of Technology Delhi — B.Tech in Computer Science — 2019 – 2023 Undergraduate thesis with Prof. Sorav Bansal."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html#research",
+    "href": "index.html#research",
     "title": "Nalin Wadhwa",
     "section": "",
-    "text": "University of Illinois Urbana-Champaign | PhD in Computer Science | 2025 - Present\nIndian Institute of Technology Delhi | B.Tech in Computer Science | 2019 - 2023"
+    "text": "My research focuses on building robust, verifiable and trustworthy AI systems. I am studying large language models through the lens of formal methods, and I belive we should use formal tools and symbolic techniques to understand and provide guarantees on model behavior. I am currently working towards deterministic verification and robustness of large language models. I have also worked on Machine Learning for Software Engineering (ML4SE) — including automated program repair, code generation, and LLM-based coding agents for complex software development tasks. Broadly, I’m excited about bridging formal methods, machine learning, and software engineering to create AI systems that are both powerful and trustworthy."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Nalin Wadhwa",
+    "section": "",
+    "text": "A full list lives on the Publications page.\nBEAVER: An Efficient Deterministic LLM Verifier Nalin Wadhwa*, Tarun Suresh*, Debangshu Banerjee, Gagandeep Singh ICLR 2026 Oral VerifAI2 Workshop[arXiv] [GitHub]\nCode Researcher: Deep Research Agent for Large Systems Code and Commit History Ramneet Singh, Sathvik Joel, Abhav Mehrotra, Nalin Wadhwa, Ramakrishna B Bairi, Aditya Kanade, Nagarajan Natarajan [Project page] [arXiv]\nMASAI: Modular Architecture for Software-engineering AI Agents Nalin Wadhwa*, Atharv Sonwane*, Daman Arora*, Abhav Mehrotra, Saiteja Utpala, Ramakrishna B Bairi, Aditya Kanade, Nagarajan Natarajan NeurIPS 2024 Workshop on Open-World Agents [Project page] [arXiv]\nCORE: Resolving Code Quality Issues Using LLMs Nalin Wadhwa, Jui Pradhan, Atharv Sonwane, Surya Prakash Sahu, Nagarajan Natarajan, Aditya Kanade, Suresh Parthasarathy, Sriram Rajamani Proceedings of the ACM on Software Engineering, FSE 2024 [ACM] [arXiv]\n\n\nOutside of research, I greatly enjoy reading fiction, philosophy, and everything in between. I also enjoy cooking, making electronic music, and can play almost all racket sports.\nI grew up in various cities across India, but my roots are in Delhi.\n\n\n\nThe best way to reach me is by email (nalin.wadhwa02 at gmail dot com)."
+  },
+  {
+    "objectID": "index.html#other-interests",
+    "href": "index.html#other-interests",
+    "title": "Nalin Wadhwa",
+    "section": "",
+    "text": "Outside of research, I greatly enjoy reading fiction, philosophy, and everything in between. I also enjoy cooking, making electronic music, and can play almost all racket sports.\nI grew up in various cities across India, but my roots are in Delhi."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Nalin Wadhwa",
+    "section": "",
+    "text": "The best way to reach me is by email (nalin.wadhwa02 at gmail dot com)."
   }
 ]
